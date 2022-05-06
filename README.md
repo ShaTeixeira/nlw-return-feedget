@@ -17,11 +17,11 @@
 </p>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/shateixeira/nlw-return-impulse-feedget?style=8257e5.svg">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/shateixeira/nlw-return-impulse-feedget?style=8257e5.svg">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/shateixeira/nlw-return-impulse-feedget?style=8257e5.svg">
-  <a href="https://github.com/shateixeira/nlw-return-impulse-feedget/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/shateixeira/nlw-return-impulse-feedget?style=8257e5.svg">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/shateixeira/nlw-return-feedget?style=8257e5.svg">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/shateixeira/nlw-return-feedget?style=8257e5.svg">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/shateixeira/nlw-return-feedget?style=8257e5.svg">
+  <a href="https://github.com/shateixeira/nlw-return-feedget/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/shateixeira/nlw-return-feedget?style=8257e5.svg">
   </a>
 <img alt="GitHub dependencies" src="https://img.shields.io/depfu/dependencies/github/shateixeira/nlw-return-impulse-feedget?style=8257e5">
 </p>
