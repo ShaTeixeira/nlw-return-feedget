@@ -27,7 +27,7 @@
   <a href="https://github.com/shateixeira/nlw-return-feedget/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/shateixeira/nlw-return-feedget?style=8257e5.svg">
   </a>
-<img alt="GitHub dependencies" src="https://img.shields.io/depfu/dependencies/github/shateixeira/nlw-return-impulse-feedget?style=8257e5">
+<img alt="GitHub dependencies" src="https://img.shields.io/depfu/dependencies/github/shateixeira/nlw-return-feedget?style=8257e5">
 
 </p>
 
