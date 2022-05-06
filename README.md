@@ -13,6 +13,10 @@
 </p>
 
 <p align="center">
+  <img alt="FeedGet" src=".github/home.png" width="100%">
+</p>
+
+<p align="center">
  <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257e5&labelColor=000" alt="License">
 </p>
 
@@ -24,6 +28,7 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/shateixeira/nlw-return-feedget?style=8257e5.svg">
   </a>
 <img alt="GitHub dependencies" src="https://img.shields.io/depfu/dependencies/github/shateixeira/nlw-return-impulse-feedget?style=8257e5">
+
 </p>
 
 ### IDE
@@ -73,13 +78,13 @@ $text-on-brand-color: #ffffff;
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](../LICENSE) para mais detalhes.
 
-## 📁 Acesso ao projeto
+<!-- ## 📁 Acesso ao projeto
 
 **Indique como é possível baixar ou acessar o código fonte do projeto, seja projeto inicial ou final**
 
 ## 🛠️ Abrir e rodar o projeto
 
-**Apresente as instruções necessárias para abrir e executar o projeto**
+**Apresente as instruções necessárias para abrir e executar o projeto** -->
 
 ## Contato
 
